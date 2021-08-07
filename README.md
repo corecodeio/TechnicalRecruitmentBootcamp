@@ -25,7 +25,7 @@
 
 ## 3. Modules
 * Week 1 : [Introduction](src/introduction)
-* Week 2
+* Week 2 :
   - [Hello, Tech World!]()
 * Week 3 : 
   - [Overview of roles]()
@@ -47,5 +47,5 @@ You can find the actual schedule [here](src/schedule)
 ## 6. Interesting
 ...
 
-## 8. Help
+## 7. Help
 <img src="src/assets/contact_us/slack.png" width="100px" class="leftAlign">
