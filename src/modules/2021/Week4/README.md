@@ -1,7 +1,7 @@
 <h1 align="center">Week 4</h1>
 
 ## Week goal 🏁
-<p>...</p>
+<p>This will be our last week, this week we will be learning more about testing and QA fundamentals, as well as we will be making a wrap up of all the roles seen during the past weeks.</p>
 
 ## Topics 📚
 * QA Testing Fundamentals
