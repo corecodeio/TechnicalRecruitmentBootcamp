@@ -31,7 +31,7 @@
 * [Programming fundamentals]()
 * [Databases]()
 
-## Week activity 🎉
+## Week activities 🎉
 <p>...</p>
 
 ## Week links 🔗

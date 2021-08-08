@@ -24,7 +24,7 @@
 * [QA Testing Fundamentals]()
 * [Wrap Up]()
 
-## Week activity 🎉
+## Week activities 🎉
 <p>...</p>
 
 ## Week links 🔗

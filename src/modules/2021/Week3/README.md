@@ -31,7 +31,7 @@
 * [Cloud]()
 * [Development tools]()
 
-## Week activity 🎉
+## Week activities 🎉
 <p>...</p>
 
 ## Week links 🔗

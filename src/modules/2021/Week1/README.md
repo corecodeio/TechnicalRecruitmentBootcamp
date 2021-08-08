@@ -22,7 +22,7 @@
 * [How development works]()
 * [Agile framework]()
 
-## Week activity 🎉
+## Week activities 🎉
 <p>...</p>
 
 ## Week links 🔗
