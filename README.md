@@ -25,18 +25,10 @@
 
 ## 3. Modules
 * [Introduction](src/introduction)
-* [Week 1](src/modules/2021/Week1) :
-  - Hello, Tech World!
-* [Week 2](src/modules/2021/Week2) : 
-  - Overview of roles
-  - Going full tech I
-  - Going full tech II
-* [Week 3](src/modules/2021/Week3) : 
-  - Going full tech III
-  - Going full tech IV
-* [Week 4](src/modules/2021/Week4) :
-  - Going full tech V
-  - Going full tech VI
+* [Week 1](src/modules/2021/Week1)
+* [Week 2](src/modules/2021/Week2) 
+* [Week 3](src/modules/2021/Week3) 
+* [Week 4](src/modules/2021/Week4)
 
 ## 4. Schedule
 You can find the actual schedule [here](src/schedule)
