@@ -1,6 +1,6 @@
 <h1 align="center">Week 1</h1>
 
-## Week goal 🏁
+## Week description 🏁
 <p>What is software? What is an operating system? How does a computer work? These and other questions will have an answer this week. We will focus on how the technology we work with works, from our computers to the way we connect to the internet. After this we will make a brief introduction to software development as well as an agile framework called SCRUM, used for software development.</p>
 
 ## Topics 📚
