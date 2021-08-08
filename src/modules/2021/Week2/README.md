@@ -1,9 +1,9 @@
 <h1 align="center">Week 2</h1>
 
-## 1. Week goal 🏁
+## Week goal 🏁
 <p>...</p>
 
-## 2. Topics 📚
+## Topics 📚
 * Overview of tech roles
   - DevOps
   - Backend engineer
@@ -26,13 +26,13 @@
   - Relational database
   - Non-relational database
 
-## 3. Week Slides 💻
-1. [Overview of tech roles]()
-2. [Programming fundamentals]()
-3. [Databases]()
+## Week Slides 💻
+* [Overview of tech roles]()
+* [Programming fundamentals]()
+* [Databases]()
 
-## 4. Week activity 🎉
+## Week activity 🎉
 <p>...</p>
 
-## 5. Week links 🔗
+## Week links 🔗
 ...

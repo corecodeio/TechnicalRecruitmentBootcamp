@@ -1,9 +1,9 @@
 <h1 align="center">Week 1</h1>
 
-## 1. Week goal 🏁
+## Week goal 🏁
 <p>...</p>
 
-## 2. Topics 📚
+## Topics 📚
 * Computing and networks
   - How computer work
   - Operating systems
@@ -17,13 +17,13 @@
   - Scrum - roles
   - Scrum - dynamics
 
-## 3. Week Slides 💻
-1. [Computing and networks]()
-2. [How development works]()
-3. [Agile framework]()
+## Week Slides 💻
+* [Computing and networks]()
+* [How development works]()
+* [Agile framework]()
 
-## 4. Week activity 🎉
+## Week activity 🎉
 <p>...</p>
 
-## 5. Week links 🔗
+## Week links 🔗
 ...

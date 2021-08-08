@@ -1,9 +1,9 @@
 <h1 align="center">Week 4</h1>
 
-## 1. Week goal 🏁
+## Week goal 🏁
 <p>...</p>
 
-## 2. Topics 📚
+## Topics 📚
 * QA Testing Fundamentals
   - Fundamentos de testing, basados en ISTQB
   - Testing en el ciclo de vida de un proyecto de software
@@ -20,12 +20,12 @@
   - Fullstack engineer
   - Cloud architecture engineer
 
-## 3. Week Slides 💻
-1. [QA Testing Fundamentals]()
-2. [Wrap Up]()
+## Week Slides 💻
+* [QA Testing Fundamentals]()
+* [Wrap Up]()
 
-## 4. Week activity 🎉
+## Week activity 🎉
 <p>...</p>
 
-## 5. Week links 🔗
+## Week links 🔗
 ...

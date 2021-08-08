@@ -1,9 +1,9 @@
 <h1 align="center">Week 3</h1>
 
-## 1. Week goal 🏁
+## Week goal 🏁
 <p>...</p>
 
-## 2. Topics 📚
+## Topics 📚
 * Applications
   - DevOps
   - Backend engineer
@@ -26,13 +26,13 @@
   - Relational database
   - Non-relational database
 
-## 3. Week Slides 💻
-1. [Applications]()
-2. [Cloud]()
-3. [Development tools]()
+## Week Slides 💻
+* [Applications]()
+* [Cloud]()
+* [Development tools]()
 
-## 4. Week activity 🎉
+## Week activity 🎉
 <p>...</p>
 
-## 5. Week links 🔗
+## Week links 🔗
 ...
