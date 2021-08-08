@@ -7,10 +7,10 @@
 <h1 align="center">Technical Recruiting Bootcamp</h1>
 
 ## Introduction
-<p>...</p>
+<p>Welcome to the Technical Recruiting Bootcamp guide, here you will find the different modules, schedule, recordings and interesting links for this bootcamp, we wish you the best.</p>
 
 ## How to use this guide
-<p>...</p>
+<p>Feel free to browse the different sections of this guide. We recommend you start by observing the schedule. After that it is recommended that you look at the "Modules" section, this is the most important part of this guide, within each week you will find the topics that you will be learning, as well as the necessary links, help material and a description for what you will learn through the week.</p>
 
 ## Modules
 * [Introduction](src/introduction)
@@ -23,10 +23,10 @@
 You can find the actual schedule [here](src/schedule)
 
 ## Recordings
-...
+Each code session will be recorded and uploaded to YouTube, if you could not attend a session or want to review the session, you can find all sessions [here](https://www.youtube.com/...). Sessions are uploaded by 9pm.
 
 ## Interesting
-...
+[Here](src/interesting) you can find different interesting links about the topics you learn.
 
 ## Help
 <img src="src/assets/contact_us/slack.png" width="100px" class="leftAlign">
