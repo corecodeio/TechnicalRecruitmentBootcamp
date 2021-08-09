@@ -18,12 +18,13 @@
   - Scrum - dynamics
 
 ## Week Slides 💻
-* [Computing and networks]()
-* [How development works]()
+* [Computing and networks](https://docs.google.com/presentation/d/1GEpnTaVEyUpThT82hKVjalVjMANk49-SKNMDf1r6rkw/edit#slide=id.gdab6c13f3c_1_9)
+* [How development works](https://docs.google.com/presentation/d/10Qn-E_Opz_7gSEaqDL5CpjSbCiful_1YtgrwZZ0XG9s/edit#slide=id.gdab6c13f3c_1_625)
 * [Agile framework]()
 
 ## Week activities 🎉
-<p>...</p>
+* [DNS check](https://dns.google.com/)
+* [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
 
 ## Week links 🔗
-...
+* [Fullstack Development Iceberg](https://www.youtube.com/watch?v=JMWNYfPIF2U&ab_channel=Fireship)
