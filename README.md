@@ -23,7 +23,7 @@
 You can find the actual schedule [here](src/schedule)
 
 ## Recordings
-Each code session will be recorded and uploaded to YouTube, if you could not attend a session or want to review the session, you can find all sessions [here](https://www.youtube.com/...). Sessions are uploaded by 9pm.
+Each code session will be recorded and uploaded to our Google Drive, if you could not attend a session or want to review the session, you can find all sessions [here](). Sessions are uploaded by 9pm.
 
 ## Interesting
 [Here](src/interesting) you can find different interesting links about the topics you learn.
