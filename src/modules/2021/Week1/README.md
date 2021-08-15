@@ -24,10 +24,17 @@
 
 ## Week activities 🎉
 * [DNS check](https://dns.google.com/)
+  ```
+  We will be interacting with a web page that allows us to see how the translation performed by a DNS server work, we will be entering web page addresses, for example “facebook.com” and this page will respond with the corresponding IP address.
+  ```
 * [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
+  ```
+  We will be programming our first application, with the help of "Scratch" and using different instructions, we will build our first algorithm. As a result, we will have a cat moving on our screen!
+  ```
 
 ## Test 📝
 * [Here](https://google.com/)
 
 ## Week links 🔗
 * [Fullstack Development Iceberg](https://www.youtube.com/watch?v=JMWNYfPIF2U&ab_channel=Fireship)
+* [Node js](https://www.youtube.com/watch?v=uVwtVBpw7RQ&ab_channel=ProgrammingwithMosh)
