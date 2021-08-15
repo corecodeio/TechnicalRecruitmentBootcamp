@@ -34,5 +34,8 @@
 ## Week activities 🎉
 <p>...</p>
 
+## Test 📝
+* [Here](https://google.com/)
+
 ## Week links 🔗
 ...

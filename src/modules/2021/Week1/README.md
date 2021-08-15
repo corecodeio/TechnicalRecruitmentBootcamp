@@ -26,5 +26,8 @@
 * [DNS check](https://dns.google.com/)
 * [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
 
+## Test 📝
+* [Here](https://google.com/)
+
 ## Week links 🔗
 * [Fullstack Development Iceberg](https://www.youtube.com/watch?v=JMWNYfPIF2U&ab_channel=Fireship)
