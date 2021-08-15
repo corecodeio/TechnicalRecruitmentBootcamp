@@ -35,3 +35,5 @@
 ## Week links 🔗
 * [Fullstack Development Iceberg](https://www.youtube.com/watch?v=JMWNYfPIF2U&ab_channel=Fireship)
 * [Node js](https://www.youtube.com/watch?v=uVwtVBpw7RQ&ab_channel=ProgrammingwithMosh)
+* [Macintosh Online](http://jamesfriend.com.au/pce-js/)
+* [Windows 1](https://copy.sh/v86/?profile=windows1)

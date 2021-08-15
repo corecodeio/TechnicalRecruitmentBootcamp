@@ -22,15 +22,15 @@
   - Github, Bitbucket, GitLab
 
 ## Week Slides 💻
-* [Applications]()
-* [Cloud]()
-* [Development tools]()
-
-## Week activities 🎉
-<p>...</p>
+* [Applications](https://docs.google.com/presentation/d/1sf65RDw3_yrAFTWDhyO5goZdO5ejlTV2iGW7jMC5Js4)
+* [Cloud](https://docs.google.com/presentation/d/1m402vpnLyABVUIsYgP5Ax3p917uob5vB3rlkee9L82w)
+* [Development tools](https://docs.google.com/presentation/d/1MJv22l34-95b7AgbtnfEZPTIIdLzWHfVSn0q-sy9eS8)
 
 ## Test 📝
 * [Here](https://google.com/)
 
 ## Week links 🔗
-...
+* [HTML example](https://github.com/yosefmarr/dm0)
+* [React example](https://github.com/yosefmarr/dm1)
+* [Ionic example](https://github.com/yosefmarr/dm2)
+* [Github](https://github.com/)
