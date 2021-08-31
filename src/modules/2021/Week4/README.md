@@ -22,7 +22,7 @@
 
 ## Week Slides 💻
 * [QA Testing Fundamentals]()
-* [Wrap Up]()
+* [Wrap Up](https://docs.google.com/presentation/d/1mRf-MSwYzl0gVbb78H1aC8ROeD25Ji8VO85JHAXGe34/edit#slide=id.p)
 
 ## Week activities 🎉
 <p>...</p>
