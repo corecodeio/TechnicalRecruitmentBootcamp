@@ -29,4 +29,4 @@ Please reach out to your Slack Workspace to ask for the link to recordings.
 [Here](src/interesting) you can find different interesting links about the topics you learn.
 
 ## Help
-<img src="src/assets/contact_us/slack.png" width="100px" class="leftAlign">
+Please reach out to your Slack Workspace to ask for any help.
