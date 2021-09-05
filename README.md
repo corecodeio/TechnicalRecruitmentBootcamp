@@ -20,10 +20,10 @@
 * [Week 4](src/modules/2021/Week4)
 
 ## Schedule
-You can find the actual schedule [here](src/schedule)
+Please reach out to your Slack Workspace to ask for the calendar link.
 
 ## Recordings
-Each code session will be recorded and uploaded to our Google Drive, if you could not attend a session or want to review the session, you can find all sessions [here](). Sessions are uploaded by 9pm.
+Please reach out to your Slack Workspace to ask for the link to recordings.
 
 ## Interesting
 [Here](src/interesting) you can find different interesting links about the topics you learn.
