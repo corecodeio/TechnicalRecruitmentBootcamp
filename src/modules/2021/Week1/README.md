@@ -4,6 +4,9 @@
 <p>What is software? What is an operating system? How does a computer work? These and other questions will have an answer this week. We will focus on how the technology we work with works, from our computers to the way we connect to the internet. After this we will make a brief introduction to software development as well as an agile framework called SCRUM, used for software development.</p>
 
 ## Topics 📚
+* Welcome Session
+  - General Picture & Program
+  - History of Computing & role of Technical Recruitment
 * Computing and networks
   - How computer work
   - Operating systems
@@ -18,6 +21,7 @@
   - Scrum - dynamics
 
 ## Week Slides 💻
+* [Welcome Session](https://docs.google.com/presentation/d/1DFbQay2XlhWUPRMzvQz4Ugp0ELK8R5ZN3rbIHnzX-X4/edit?usp=sharing)
 * [Computing and networks](https://docs.google.com/presentation/d/1GEpnTaVEyUpThT82hKVjalVjMANk49-SKNMDf1r6rkw/edit#slide=id.gdab6c13f3c_1_9)
 * [How development works](https://docs.google.com/presentation/d/10Qn-E_Opz_7gSEaqDL5CpjSbCiful_1YtgrwZZ0XG9s/edit#slide=id.gdab6c13f3c_1_625)
 * [Agile framework]()
@@ -30,10 +34,9 @@
   <p>We will be programming our first application, with the help of "Scratch" and using different instructions, we will build our first algorithm. As a result, we will have a cat moving on our screen!</p>
 
 ## Test 📝
-* [Here](https://google.com/)
+* Find the test [here](https://google.com/) on Friday.
 
 ## Week links 🔗
 * [Fullstack Development Iceberg](https://www.youtube.com/watch?v=JMWNYfPIF2U&ab_channel=Fireship)
-* [Node js](https://www.youtube.com/watch?v=uVwtVBpw7RQ&ab_channel=ProgrammingwithMosh)
 * [Macintosh Online](http://jamesfriend.com.au/pce-js/)
 * [Windows 1](https://copy.sh/v86/?profile=windows1)
