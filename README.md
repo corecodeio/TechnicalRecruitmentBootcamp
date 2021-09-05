@@ -13,11 +13,11 @@
 <p>Feel free to browse the different sections of this guide. We recommend you start by observing the schedule. After that it is recommended that you look at the "Modules" section, this is the most important part of this guide, within each week you will find the topics that you will be learning, as well as the necessary links, help material and a description for what you will learn through the week.</p>
 
 ## Modules
-* [Introduction](src/introduction)
 * [Week 1](src/modules/2021/Week1)
 * [Week 2](src/modules/2021/Week2) 
 * [Week 3](src/modules/2021/Week3) 
 * [Week 4](src/modules/2021/Week4)
+* [Week 5](src/modules/2021/Week5)
 
 ## Schedule
 Please reach out to your Slack Workspace to ask for the calendar link.
