@@ -4,7 +4,7 @@
 <p>On these sessions we will be exploring Tech Roles that you need to hire in your company, and how they relate to all you've learned in the past weeks!</p>
 
 ## Topics 📚
-* Tech Roles
+* Your company's Tech Roles
 * Wrap up and Q&A 
 
 ## Week Slides 💻
