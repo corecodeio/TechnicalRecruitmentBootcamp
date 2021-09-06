@@ -1,7 +1,9 @@
 <h1 align="center">Week 1</h1>
 
 ## Week description 🏁
-<p>This is our introductory week! We'll learn more about the journey at Core Code as a technical recruiter, about computing & networks and about how development Works! What is software? What is an operating system? How does a computer work? These and other questions will have an answer this week. We will focus on how the technology we work with works, from our computers to the way we connect to the internet. After this we will make a brief introduction to software development as well as to Agile and a framework called SCRUM, used for software development.</p>
+<p>This is our introductory week! We'll learn more about your journey at Core Code as a technical recruiter, computing & networks and how development Works! 
+
+What is software? What is an operating system? How does a computer work? These are some of the questions will answer this week. We will focus on how the technology we work with works, from our computers to the way we connect to the internet. After this we will make a brief introduction to software development as well as to Agile and a framework called SCRUM, used for software development.</p>
 
 ## Topics 📚
 * Welcome Session
