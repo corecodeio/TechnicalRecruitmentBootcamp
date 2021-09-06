@@ -1,33 +1,16 @@
 <h1 align="center">Week 5</h1>
 
 ## Week description 🏁
-<p>This will be our last week, this week we will be learning more about testing and QA fundamentals, as well as we will be making a wrap up of all the roles seen during the past weeks.</p>
+<p>This will be our last week, this week we will be practicing and presenting our presentations on a specific role to be set-up for success! </p>
 
 ## Topics 📚
-* QA Testing Fundamentals
-  - Fundamentos de testing, basados en ISTQB
-  - Testing en el ciclo de vida de un proyecto de software
-  - Agile testing - rol de un tester/QA en un equipo ágil
-  - Técnicas para hacer testing
-  - Testing funcional y no funcional
-  - Herramientas sistema e integración
-  - Formas de hacer pruebas automatizadas
-* Wrap Up
-  - DevOps
-  - Backend engineer
-  - Frontend engineer
-  - UI/UX
-  - Fullstack engineer
-  - Cloud architecture engineer
-
-## Week Slides 💻
-* [QA Testing Fundamentals]()
-* [Wrap Up](https://docs.google.com/presentation/d/1mRf-MSwYzl0gVbb78H1aC8ROeD25Ji8VO85JHAXGe34/edit#slide=id.p)
+* Final Presentations
+  - Job Opening Description
+  - Hiring Process
+  - Questions to ask
 
 ## Week activities 🎉
-<p>...</p>
+We will invite a panel from your company to check out the presentations! 
 
-## Test 📝
-* [Here](https://google.com/)
-
-## Week links 🔗
+## Final Test 📝
+* Find your final test [here](https://google.com/).
