@@ -43,8 +43,7 @@
 
 ## Week links 🔗
 * [More about DevOps](https://www.youtube.com/watch?v=8_ju_D_GoQQ&ab_channel=Simplilearn)
-* [JavaScirpt code](./script/example.js)
+* [JavaScript code](./script/example.js)
 * [HTML example](https://github.com/yosefmarr/dm0)
-* [React example](https://github.com/yosefmarr/dm1)
 * [Ionic example](https://github.com/yosefmarr/dm2)
 * [Github](https://github.com/)
