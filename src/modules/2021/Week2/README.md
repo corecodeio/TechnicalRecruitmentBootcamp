@@ -17,6 +17,11 @@
   - Libraries
   - Relation with programming languages
 * Databases, applications, cloud & development tools
+  - App ecosystems
+  - IaaS, PaaS, SaaS
+  - Containers, Doker
+  - Text editors
+  - Git, Github, Bitbucket, GitLab
 * QA Testing
 
 ## Week Slides 💻
