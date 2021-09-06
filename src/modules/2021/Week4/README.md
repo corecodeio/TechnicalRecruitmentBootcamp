@@ -9,7 +9,8 @@
   - Other company's processes  
 * Interview practice
   - Questions to ask
-  - Things to look out for  
+  - Things to look out for 
+ * Guidelines for presentations
 
 ## Week Slides 💻
 * [Recruitment Process Benchmark]()
