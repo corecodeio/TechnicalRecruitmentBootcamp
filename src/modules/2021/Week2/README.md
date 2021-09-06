@@ -35,5 +35,5 @@
 * Find the test [here](https://google.com/) on Friday.
 
 ## Week links 🔗
-* [More about Devops](https://www.youtube.com/watch?v=8_ju_D_GoQQ&ab_channel=Simplilearn)
+* [More about DevOps](https://www.youtube.com/watch?v=8_ju_D_GoQQ&ab_channel=Simplilearn)
 * [JavaScirpt code](./script/example.js)
