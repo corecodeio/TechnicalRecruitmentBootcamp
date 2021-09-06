@@ -28,8 +28,8 @@ Please reach out to your Slack Workspace to ask for the calendar link.
 ## Recordings
 Please reach out to your Slack Workspace to ask for the link to recordings.
 
-## Interesting
-[Here](src/interesting) you can find different interesting links about the topics you learn.
+## Requested by you
+In case you request for any other sources of anything of your interest, we will be posting them [here](src/interesting).
 
 ## Help
 Please reach out to your Slack Workspace to ask for any help.
