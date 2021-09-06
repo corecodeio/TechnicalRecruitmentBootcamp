@@ -16,7 +16,8 @@
 * [Interview Practice](https://docs.google.com/presentation/d/1mRf-MSwYzl0gVbb78H1aC8ROeD25Ji8VO85JHAXGe34/edit#slide=id.p)
 
 ## Week activities 🎉
-<p>...</p>
+* Interview practice
+You will get together with your team to determine the best questions to ask to a specific job opening and then you will bring them to the table!
 
 ## Test 📝
 * [Here](https://google.com/)
