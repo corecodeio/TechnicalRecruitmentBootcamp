@@ -22,10 +22,10 @@ What is software? What is an operating system? How does a computer work? These a
   - Scrum 
 
 ## Week Slides 💻
-* [Welcome Session](https://docs.google.com/presentation/d/1DFbQay2XlhWUPRMzvQz4Ugp0ELK8R5ZN3rbIHnzX-X4/edit?usp=sharing)
-* [Computing and networks](https://docs.google.com/presentation/d/1GEpnTaVEyUpThT82hKVjalVjMANk49-SKNMDf1r6rkw/edit#slide=id.gdab6c13f3c_1_9)
-* [How development works](https://docs.google.com/presentation/d/10Qn-E_Opz_7gSEaqDL5CpjSbCiful_1YtgrwZZ0XG9s/edit#slide=id.gdab6c13f3c_1_625)
-* [Agile framework]()
+* [Welcome Session](https://drive.google.com/file/d/10UoyKINiMShVEDdyKQOAgw3ucQgq_ygR/view?usp=sharing)
+* [Computing and networks](https://drive.google.com/file/d/11haF5VZYxvm14bNgW8rlencqPOFuZEvp/view?usp=sharing)
+* [How development works](https://drive.google.com/file/d/1QGFGZBNA7TQPBNtQSMARd-VeHu6f1Kaw/view?usp=sharing)
+* [Agile]()
 
 ## Week activities 🎉
 * [DNS check](https://dns.google.com/)
