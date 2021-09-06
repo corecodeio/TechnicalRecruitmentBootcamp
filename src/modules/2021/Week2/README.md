@@ -17,12 +17,14 @@
   - Libraries
   - Relation with programming languages
 * Databases, applications, cloud & development tools
+* QA Testing
 
 ## Week Slides 💻
 * [How development works]()
 * [Programming fundamentals]()
 * [Framework, libraries and runtime enviroments]()
 * [Databases, applications, cloud & development tools]()
+* [QA Testing]()
 
 ## Week activities 🎉
 * [Try JavaScript](https://jsbin.com/?js,console)
