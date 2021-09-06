@@ -4,13 +4,9 @@
 <p>This week we will be covering six main technology roles, necessary skills, responsibilities, and tools that thoes roles typically use. After this we will be learning more about the fundamentals of programming and the tools that developers use, such as “Frameworks”, “Libraries” and “Runtime enviroments”, we will be answering questions such as:  What do these names mean? How are they used? What are they for?. Finally we will be talking about a fundamental part of every project, the "Data". How do developers handle the data? What are databases? All this and more, will be answered this week.</p>
 
 ## Topics 📚
-* Overview of tech roles
-  - DevOps
-  - Backend engineer
-  - Frontend engineer
-  - UI/UX
-  - Fullstack engineer
-  - Cloud architecture engineer
+* How development works
+  - Algorithms and structures
+  - How programs are built by the computer
 * Programming fundamentals
   - Compiled and interpreted programs
   - Programming languages zoo
@@ -20,17 +16,13 @@
   - Frameworks
   - Libraries
   - Relation with programming languages
-* Databases
-  - Data
-  - Database
-  - Relational database
-  - Non-relational database
+* Databases, applications, cloud & development tools
 
 ## Week Slides 💻
-* [Overview of tech roles](https://docs.google.com/presentation/d/1y9A0Ub9UcardBVzmi-pvweOHIqUd0xs6PP_UXRWogWo)
-* [Programming fundamentals](https://docs.google.com/presentation/d/1nmGGSfOKCqwOXKhDtFcy28-avEd5FF7AbO6CapE02ts)
-* [Framework, libraries and runtime enviroments](https://docs.google.com/presentation/d/1q8AWp7O9L-BVD0REDRhNYS-wsqacv1F4MpX24juU23E)
-* [Databases](https://docs.google.com/presentation/d/1RR1aOkenzk838nYSqYZqy7sbYQuSQU6EmvYireP14iY)
+* [How development works]()
+* [Programming fundamentals]()
+* [Framework, libraries and runtime enviroments]()
+* [Databases, applications, cloud & development tools]()
 
 ## Week activities 🎉
 * [Try JavaScript](https://jsbin.com/?js,console)
@@ -40,7 +32,7 @@
   <p>Together we will be classifying different elements in the sections of “Framework”, “Librarie” or “Language”, with this we will finish learning the difference of each one of them.</p>
 
 ## Test 📝
-* [Here](https://google.com/)
+* Find the test [here](https://google.com/) on Friday.
 
 ## Week links 🔗
 * [More about Devops](https://www.youtube.com/watch?v=8_ju_D_GoQQ&ab_channel=Simplilearn)
