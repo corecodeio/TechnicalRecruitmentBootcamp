@@ -20,7 +20,7 @@
 You will get together with your team to determine the best questions to ask to a specific job opening and then you will bring them to the table!
 
 ## Test 📝
-* Find your test [here] (https://google.com/) on Friday.
+* Find your test [here](https://google.com/) on Friday.
 
 ## Week links 🔗
 ...
