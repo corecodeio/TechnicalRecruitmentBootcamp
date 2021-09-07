@@ -25,9 +25,9 @@ What is software? What is an operating system? How does a computer work? These a
 * [Welcome Session](https://drive.google.com/file/d/10UoyKINiMShVEDdyKQOAgw3ucQgq_ygR/view?usp=sharing)
 * [Computing and networks](https://drive.google.com/file/d/11haF5VZYxvm14bNgW8rlencqPOFuZEvp/view?usp=sharing)
 * [How development works](https://drive.google.com/file/d/1QGFGZBNA7TQPBNtQSMARd-VeHu6f1Kaw/view?usp=sharing)
-* [Agile]()
+* [Agile](https://drive.google.com/file/d/12aEfFZ6k5FQPG6GIN-FZuQct1R4zQcG0/view?usp=sharing)
 
-## Week activities 🎉
+## Try these activities! 🎉
 * [DNS check](https://dns.google.com/)
   <p>We will be interacting with a web page that allows us to see how the translation performed by a DNS server work, we will be entering web page addresses, for example “facebook.com” and this page will respond with the corresponding IP address.</p>
 
