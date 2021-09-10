@@ -35,7 +35,7 @@ What is software? What is an operating system? How does a computer work? These a
   <p>We will be programming our first application, with the help of "Scratch" and using different instructions, we will build our first algorithm. As a result, we will have a cat moving on our screen!</p>
 
 ## Test 📝
-* Find the test [here](https://google.com/) on Friday.
+* Find the test [here](https://aplica.typeform.com/to/TAwzKmZH) on Friday.
 
 ## Week links 🔗
 * [Fullstack Development Iceberg](https://www.youtube.com/watch?v=JMWNYfPIF2U&ab_channel=Fireship)
