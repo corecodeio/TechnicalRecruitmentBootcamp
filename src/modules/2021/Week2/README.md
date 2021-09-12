@@ -22,7 +22,6 @@
 * QA Testing
 
 ## Week Slides 💻
-* [How development works]()
 * [Programming fundamentals]()
 * [Framework, libraries and runtime enviroments]()
 * [Databases, applications, cloud & development tools]()
