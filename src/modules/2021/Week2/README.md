@@ -4,9 +4,6 @@
 <p>We're taking a deep dive into the tech-world! We will be exploring development, programming fundamentals, differences between frameworks, libraries and runtime environment, and more. Make sure to have your Glossary around! </p>
 
 ## Topics 📚
-* How development works
-  - Algorithms and structures
-  - How programs are built by the computer
 * Programming fundamentals
   - Compiled and interpreted programs
   - Programming languages zoo
