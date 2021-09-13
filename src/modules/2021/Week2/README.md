@@ -22,9 +22,7 @@
 * QA Testing
 
 ## Week Slides 💻
-* [Programming fundamentals]()
-* [Framework, libraries and runtime enviroments]()
-* [Databases, applications, cloud & development tools]()
+* [Programming fundamentals, languages, frameworks, libraries and runtime enviroments, cloud, platforms, databases](https://drive.google.com/file/d/1w1tRCoR9_Q9NH9qzJVzKnF3t15KfWJrw/view?usp=sharing)
 * [QA Testing]()
 
 ## Week activities 🎉
