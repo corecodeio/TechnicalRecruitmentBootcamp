@@ -23,7 +23,7 @@
 
 ## Week Slides 💻
 * [Programming fundamentals, languages, frameworks, libraries and runtime enviroments, cloud, platforms, databases](https://drive.google.com/file/d/1w1tRCoR9_Q9NH9qzJVzKnF3t15KfWJrw/view?usp=sharing)
-* [QA Testing]()
+* [QA Testing](https://drive.google.com/file/d/1n6SD7zqUx1E97a6BDWe5T2vKK-H4L32t/view?usp=sharing)
 
 ## Week activities 🎉
 * [Try JavaScript](https://jsbin.com/?js,console)
