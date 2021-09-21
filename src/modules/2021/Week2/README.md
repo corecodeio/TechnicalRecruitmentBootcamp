@@ -33,7 +33,7 @@
   <p>Together we will be classifying different elements in the sections of “Framework”, “Librarie” or “Language”, with this we will finish learning the difference of each one of them.</p>
 
 ## Test 📝
-* Find the test [here](https://google.com/) on Friday.
+* Find the test [here](https://aplica.typeform.com/to/kM6K7opy) on Friday.
 
 ## Week links 🔗
 * [More about DevOps](https://www.youtube.com/watch?v=8_ju_D_GoQQ&ab_channel=Simplilearn)
