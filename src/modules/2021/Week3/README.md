@@ -12,6 +12,6 @@
 * [Wrap up]()
 
 ## Test 📝
-* Find your test [here](https://google.com/) on Friday.
+* Find your test [here](https://aplica.typeform.com/to/X5mYlIbA) on Friday.
 
 ## Week links 🔗
