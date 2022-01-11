@@ -4,13 +4,18 @@
 
 </a>
 
-<h1 align="center">Technical Recruitment Bootcamp</h1>
+<h1 align="center">Technical Recruitment Bootcamp - January 2022</h1>
 
 ## Introduction
 <p>Welcome to the Technical Recruitment Bootcamp guide, here you will find the different modules, schedule, recordings and interesting links for this bootcamp, we wish you the best.</p>
 
 ## How to use this guide
 <p>Feel free to browse the different sections of this guide. We recommend you start by observing the schedule. After that it is recommended that you look at the "Modules" section, this is the most important part of this guide, within each week you will find the topics that you will be learning, as well as the necessary links, help material and a description for what you will learn through the week.</p>
+
+## Glossary
+<p> We've started out an introductory Glossary for everyone, it covers mostly the first 2 modules.</p>
+
+* [Glossary](src/introGlossary.md)
 
 ## Modules
 * [Week 1](src/modules/2021/Week1)
