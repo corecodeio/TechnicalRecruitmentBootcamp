@@ -1,40 +1,27 @@
-<h1 align="center">Week 1 - Welcome to Technical Recruitment!</h1>
+<h1>Introductory Glossary</h1>
 
-## Week description 🏁
-<p>This is our introductory week! We'll learn more about your journey at Core Code as a technical recruiter, introduce you to some key technology concepts and the history of computing. Notice we use the word computing and not computer? In the practical side of this module we'll understand how a development team is built and understand the challenges recruiters face as we build the future together.
+Hey this is a repository where you'll find the first definitions we'll work through during the course. Feel free to copy them into your own Glossary as a help to complete the program.
 
-What is software? What is an operating system? How does a computer work? These are some of the questions will answer this week. We will focus on how the technology we work with works, from our computers to the way we connect to the internet. After this we will make a brief introduction to software development as well as to Agile and a framework called SCRUM, used for software development.</p>
 
-## Topics 📚
-* Welcome Session
-  - General Picture & Program
-  - History of Computing 
-  - The role of Technical Recruitment
-* What is a development team?
-  - Characteristics
-  - Define roles
-  - How are they managed
-  - Project management methodologies
-* Agile 
-  - Scrum 
-
-## Week Slides 💻
-* [Welcome Session](https://docs.google.com/presentation/d/1rueVoegr7gWsBJwPYzt_79WHtpELmAs1KxCBQL06j7Q/edit?usp=sharing)
-* [Agile](https://drive.google.com/file/d/12aEfFZ6k5FQPG6GIN-FZuQct1R4zQcG0/view?usp=sharing)
-
-## Review our activities! 🎉
-
-* [Jamboard - What is technology?](https://jamboard.google.com/d/1LwKTas7V67nCJZDwJrHocPABFkTXJXHe7dyFDiouQEI/edit?usp=sharing)
-* [Jamboard - The Future](https://jamboard.google.com/d/19-wHCG4Ar2cZaZJK60OHSzYtejhSb6FlBT-FTrT-_ec/edit?usp=sharing)
-* [Jamboard - Who is part of a development team?](https://jamboard.google.com/d/1BTjlyeJ50W161EJdBM-eOAeT_gkoiaefOW76M8EzkWI/edit?usp=sharing)
-* [Jamboard - Challenges in building a development team](https://jamboard.google.com/d/13quifUstPQ8wVdB2DKcSJ4tfNyAX3_kcJVm43RidaEY/edit?usp=sharing)
-* [Sheets - Breaking down a feature](https://docs.google.com/spreadsheets/d/1LRgErrZ4drsIyLrmbCi6qDsPLjT3vd-rqtVkEU7YUNQ/edit?usp=sharing)
-
-## Test 📝
-* Find the test [here](https://aplica.typeform.com/to/TAwzKmZH) on Friday.
-
-## Week links 🔗
-
-* [Stanford Encyclopedia of Philosophy - The History of Computing](https://plato.stanford.edu/entries/computing-history/)
-* [Django Stars - Building a Development Team](https://djangostars.com/blog/form-successful-development-team/)
-* [Gallup Polls - Remote Work Trends in 2022 and beyond](https://news.gallup.com/poll/355907/remote-work-persisting-trending-permanent.aspx)
+* Technology: The application of scientific knowledge for applied purposes.
+* Abacus: The first computing machine
+* Charles Babbage: Creator of the difference engine, the first computer.
+* Ada Lovelace: Creator of the Thinking Machine, the first Programmable computer.
+* Alan Turing: Creator of the Engima Machine, helped defeat the Nazi.
+* Margaret Hamilton: Programmer in the Apollo 11 program.
+* Personal Computer: The type computer that wasn't connected to a mainframe, it was smart on it's own and meant to be used by people like us.
+* ARPANET: Military network that was the precursor of the internet.
+* Internet: The public version of ARPANET that changed the world.
+* Development team: Group of people who can cover the end to end creation of a technological product.
+* Dynamic: Roles are a formality, but members know who can best perform a task with little friction.
+* Self Organizing: They know how to divide work, what their capability is what they can deliver on time, with quality.
+* Resilient: Members may come and go but the team will continue to perform, they have a structure to follow.
+* Production: The public version of the development project, what the users actually use
+* Front End Development: In charge of what the user actually interacts with, they manage the transport of data into the UI and how it behaves.
+* Back End Development: Works on the code that powers what the user needs, but doesn’t require an interface. 
+* Data Engineer and Business Intelligence: They design the systems that hold the data that make the system function, and can analyze it to draw insights.
+* Infrastructure Administrator: They manage the servers that developers use to run code, put releases into production and manage users.
+* User Experience Designer: They design what the overall experience should be, run tests with users and handoff designs to front end devs.
+* Project and Product Managers: They envision what the product needs to be, break it down into phases and monitor that devs can accomplish it within the required timeframe.
+* Scrum: Product management methodology that aims to increase agility and performance in development teams.
+* Feature: Part of a development project that can be completed end to end.
