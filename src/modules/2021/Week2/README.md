@@ -4,8 +4,7 @@
 <p>We're taking a deep dive into the tech-world! We will be exploring development, programming fundamentals, differences between frameworks, libraries and runtime environment, and more. Make sure to have your Glossary around! </p>
 
 ## Topics 📚
-* What is a computer
-- How do computers work
+* Computers
 * Hardware
 * Cloud Processing
 * Databases
