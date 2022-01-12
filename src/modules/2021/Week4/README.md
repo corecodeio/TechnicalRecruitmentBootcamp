@@ -4,6 +4,7 @@
 <p>Ready to explore some hiring processes from your own and other tech company's? On this week, we will be working on hiring processes and interview practice. Let's hire the best talent! </p>
 
 ## Topics 📚
+* Sourcing
 * Recruitment process benchmark
   - Your company's process
   - Other company's processes  
@@ -11,6 +12,7 @@
   - Questions to ask
   - Things to look out for 
  * Guidelines for presentations
+ * QA Testing
 
 ## Week Slides 💻
 * [Recruitment Process Benchmark]()
