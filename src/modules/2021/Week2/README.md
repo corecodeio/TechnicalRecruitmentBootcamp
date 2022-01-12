@@ -6,22 +6,15 @@
 ## Topics 📚
 * Computers
 * Hardware
-* Cloud Processing
-* Databases
 * Software
-* How do computers understand us
-* How do software and hardware relate
 * Operating Systems
-* What is a programming language
-* Kinds of programming languages overview
-* Markdown
-* Scripting
-* Object Oriented
-* Query Languages
+* Programming Languages
+* Tech Roles
+* Roles Skillsets
 * QA Testing
 
 ## Week Slides 💻
-* Computers, Hardwarem Software, Programming Languages
+* Computers, Hardware, Software, Programming Languages, Tech Roles
 * QA Testing
 
 ## Week activities 🎉
