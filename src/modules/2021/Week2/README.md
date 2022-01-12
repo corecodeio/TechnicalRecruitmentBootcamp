@@ -11,11 +11,9 @@
 * Programming Languages
 * Tech Roles
 * Roles Skillsets
-* QA Testing
 
 ## Week Slides 💻
 * Computers, Hardware, Software, Programming Languages, Tech Roles
-* QA Testing
 
 ## Week activities 🎉
 * [Try JavaScript](https://jsbin.com/?js,console)
