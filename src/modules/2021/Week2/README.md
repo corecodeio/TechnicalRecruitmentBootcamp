@@ -4,25 +4,25 @@
 <p>We're taking a deep dive into the tech-world! We will be exploring development, programming fundamentals, differences between frameworks, libraries and runtime environment, and more. Make sure to have your Glossary around! </p>
 
 ## Topics 📚
-* Programming fundamentals
-  - Compiled and interpreted programs
-  - Programming languages zoo
-  - Clean code vs dirty code
-* Framework, libraries and runtime enviroments
-  - Runtime environments
-  - Frameworks
-  - Libraries
-  - Relation with programming languages
-* Databases, applications, cloud & development tools
-  - App ecosystems
-  - IaaS, PaaS, SaaS
-  - Containers, Doker
-  - Text editors
-  - Git, Github, Bitbucket, GitLab
+* What is a computer
+- How do computers work
+* Hardware
+* Cloud Processing
+* Databases
+* Software
+* How do computers understand us
+* How do software and hardware relate
+* Operating Systems
+* What is a programming language
+* Kinds of programming languages overview
+* Markdown
+* Scripting
+* Object Oriented
+* Query Languages
 * QA Testing
 
 ## Week Slides 💻
-* Programming fundamentals, languages, frameworks, libraries and runtime enviroments, cloud, platforms, databases
+* Computers, Hardwarem Software, Programming Languages
 * QA Testing
 
 ## Week activities 🎉
