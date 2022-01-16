@@ -4,7 +4,7 @@
 <p>We're taking a deep dive into the tech-world! We will be exploring development, programming fundamentals, differences between frameworks, libraries and runtime environment, and more. Make sure to have your Glossary around! </p>
 
 ## Topics 📚
-* Computers
+* How does a computer work?
 * Hardware
 * Software
 * Operating Systems
@@ -13,21 +13,20 @@
 * Roles Skillsets
 
 ## Week Slides 💻
-* Computers, Hardware, Software, Programming Languages, Tech Roles
+* [How does development work?](https://docs.google.com/presentation/d/1nmu2ic8UoWAvPjCzX22cjycjl4t3BP5GOvJUeWjtEjs/edit?usp=sharing)
+* [Programming and Languages Zoo](https://docs.google.com/presentation/d/1mFjUMHm3EFkgowK4IVUCcq_N3cs8Ul7ZB-dHm_HUz4A/edit?usp=sharing)
 
 ## Week activities 🎉
-* [Try JavaScript](https://jsbin.com/?js,console)
-  <p>We will be using JavaScript to create a program that adds two numbers and shows us the result, don't worry, first we will be looking at an example, and then together we will be building our program to add the numbers.</p>
-  
-* [Framework, libraries and languages](https://app.mural.co/invitation/mural/bootcamp3167/1629066183970?sender=u7d13b3aa48fd45946b235761&key=54416e1c-6a71-40c1-a880-6a2993522c9d)
-  <p>Together we will be classifying different elements in the sections of “Framework”, “Librarie” or “Language”, with this we will finish learning the difference of each one of them.</p>
+* [Jamboard - How does a computer work?](https://jamboard.google.com/d/1tYtpArhgZMMkPcpbD8kfx5PiEN_D1Ayn5L6knYUPVwc/edit?usp=sharing)
+* [Jamboard - How do computers understand us?](https://jamboard.google.com/d/1a7Fhn9-ESKOqDBVZ0ySycZ2CrmvGR98SwpXRKJ-Lu4s/edit?usp=sharing)
+* [Pages - Writing down algorithms](https://docs.google.com/document/d/1V-Ti5Lm-IRJhkSgdX8JNP-kMOOZ91XvH5jZ0fY5bxxc/edit?usp=sharing)
+* [Jamboard - Creating initial roles](https://jamboard.google.com/d/1kml4-QkeVqVqLvfVHB__Po3KgPymC6zD6i2UviF518w/edit?usp=sharing)
+* [Scratch!](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
+
 
 ## Test 📝
 * Find the test [here](https://aplica.typeform.com/to/kM6K7opy) on Friday.
 
 ## Week links 🔗
-* [More about DevOps](https://www.youtube.com/watch?v=8_ju_D_GoQQ&ab_channel=Simplilearn)
-* [JavaScript code](./script/example.js)
-* [HTML example](https://github.com/yosefmarr/dm0)
-* [Ionic example](https://github.com/yosefmarr/dm2)
-* [Github](https://github.com/)
+* [List of interesting certifications for different roles](https://www.indeed.com/career-advice/career-development/top-technical-certifications)
+* 
