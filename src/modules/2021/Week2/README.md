@@ -22,6 +22,7 @@
 * [Pages - Writing down algorithms](https://docs.google.com/document/d/1V-Ti5Lm-IRJhkSgdX8JNP-kMOOZ91XvH5jZ0fY5bxxc/edit?usp=sharing)
 * [Jamboard - Creating initial roles](https://jamboard.google.com/d/1kml4-QkeVqVqLvfVHB__Po3KgPymC6zD6i2UviF518w/edit?usp=sharing)
 * [Scratch!](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
+* [Languages v. Frameworks v. Libraries v. SDKs](https://jamboard.google.com/d/1o6LjjiqITAaroQ3RSvjrGuirPGEUwgXOhb4eJiBZfhk/edit?usp=sharing)
 
 
 ## Test 📝
@@ -29,4 +30,4 @@
 
 ## Week links 🔗
 * [List of interesting certifications for different roles](https://www.indeed.com/career-advice/career-development/top-technical-certifications)
-* 
+* [Learn Scratch with Google](https://codetolearn.withgoogle.com/learn_scratch)
