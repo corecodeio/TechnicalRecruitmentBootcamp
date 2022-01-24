@@ -30,9 +30,6 @@ What is software? What is an operating system? How does a computer work? These a
 * [Jamboard - Challenges in building a development team](https://jamboard.google.com/d/13quifUstPQ8wVdB2DKcSJ4tfNyAX3_kcJVm43RidaEY/edit?usp=sharing)
 * [Sheets - Breaking down a feature](https://docs.google.com/spreadsheets/d/1LRgErrZ4drsIyLrmbCi6qDsPLjT3vd-rqtVkEU7YUNQ/edit?usp=sharing)
 
-## Test 📝
-* Find the test [here](https://aplica.typeform.com/to/TAwzKmZH) on Friday.
-
 ## Week links 🔗
 
 * [Stanford Encyclopedia of Philosophy - The History of Computing](https://plato.stanford.edu/entries/computing-history/)
