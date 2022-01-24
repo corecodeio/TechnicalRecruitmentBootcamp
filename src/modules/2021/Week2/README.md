@@ -24,10 +24,6 @@
 * [Scratch!](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
 * [Languages v. Frameworks v. Libraries v. SDKs](https://jamboard.google.com/d/1o6LjjiqITAaroQ3RSvjrGuirPGEUwgXOhb4eJiBZfhk/edit?usp=sharing)
 
-
-## Test 📝
-* Find the test [here](https://aplica.typeform.com/to/kM6K7opy) on Friday.
-
 ## Week links 🔗
 * [List of interesting certifications for different roles](https://www.indeed.com/career-advice/career-development/top-technical-certifications)
 * [Learn Scratch with Google](https://codetolearn.withgoogle.com/learn_scratch)
