@@ -23,7 +23,4 @@
 
 * We'll add your presentations after we're done right here!
 
-## Test 📝
-* Find your test [here](https://aplica.typeform.com/to/X5mYlIbA) on Friday.
-
 ## Week links 🔗
