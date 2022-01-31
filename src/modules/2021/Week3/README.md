@@ -17,7 +17,7 @@
 
 ## Week Slides 💻
 * [Tech Roles Activity Definition](https://docs.google.com/presentation/d/1-paSXER3AjA2G9y0au2wjOLoOXHaAxOE50DSiDr30sQ/edit?usp=sharing)
-* [QA Overview]()
+* [QA Overview](https://drive.google.com/file/d/1n6SD7zqUx1E97a6BDWe5T2vKK-H4L32t/view?usp=sharing)
 
 ## Activities
 
