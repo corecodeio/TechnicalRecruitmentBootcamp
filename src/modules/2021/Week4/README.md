@@ -18,8 +18,6 @@
 * [Sourcing Challenges](https://jamboard.google.com/d/1ysXhocaCar_XMqM_pK4A6M6hym1fnGoG3p4uofzc2wo/edit?usp=sharing)
 * [Process Mapping](https://jamboard.google.com/d/1SJn9owN03e0hB2N-xNpKIGpTNIb56xeWBOlhL13P6wA/edit?usp=sharing)
 
-## Test 📝
-* Find your test [here](https://google.com/) on Friday.
 
 ## Week links 🔗
 
