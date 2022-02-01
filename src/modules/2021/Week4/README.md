@@ -24,5 +24,6 @@
 * [Innoflow - Sourcing Challenges in 2022](https://www.innoflow.io/2021/09/24/top-3-recruitment-challenges-to-tackle-in-2022/)
 * [How we can approach Challenges in a remote world](https://recooty.com/blog/overcome-your-recruiting-challenges-in-2022/)
 * [Use Stack Overflow](https://devskiller.com/source-developers-stack-overflow/)
-* [Use Reddit] (https://amazinghiring.com/how-to-use-reddit-for-recruiting/)
+* [Use Reddit](https://amazinghiring.com/how-to-use-reddit-for-recruiting/)
+* [Use Twitch](https://amazinghiring.com/sourcing-tech-talent-on-twitch-how-to-find-software-developers-using-the-popular-streaming-platform/)
 * We will be adding the name of the sourcing platforms here soon ▶️
