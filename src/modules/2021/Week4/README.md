@@ -30,3 +30,4 @@
 * Stack Overflow, Wonderful, GitHub, Dev.2, AngelHack, 
 * EdX, Coursera, Core Code 🚀
 * Facebook, TikTok, Reddit 
+* https://epicjobs.co/
