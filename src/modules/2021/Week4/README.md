@@ -8,15 +8,15 @@
 * Recruitment process stages 
   - Your company's process
   - Other company's processes  
- * Guidelines for Final Proyect Presentation
+ * Guidelines for Final Project Presentation
 
 ## Week Slides 💻
 * [Sourcing and Process Design](https://docs.google.com/presentation/d/1bkhnm2AtcF5Ae92YXU4QX99DkXoQ4L2q9qdeRFaDx_Y/edit?usp=sharing)
 * [Process Design Workshop](https://docs.google.com/presentation/d/1d0IgpqYi0bXrfDquAG7IAAAysfIPgipG94fWAxSrUmo/edit?usp=sharing)
 
 ## Week activities 🎉
-* Interview practice
-You will get together with your team to determine the best questions to ask to a specific job opening and then you will bring them to the table!
+* [Sourcing Challenges](https://jamboard.google.com/d/1ysXhocaCar_XMqM_pK4A6M6hym1fnGoG3p4uofzc2wo/edit?usp=sharing)
+* [Process Mapping](https://jamboard.google.com/d/1SJn9owN03e0hB2N-xNpKIGpTNIb56xeWBOlhL13P6wA/edit?usp=sharing)
 
 ## Test 📝
 * Find your test [here](https://google.com/) on Friday.
