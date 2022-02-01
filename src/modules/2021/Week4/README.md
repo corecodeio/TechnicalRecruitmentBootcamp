@@ -26,4 +26,7 @@
 * [Use Stack Overflow](https://devskiller.com/source-developers-stack-overflow/)
 * [Use Reddit](https://amazinghiring.com/how-to-use-reddit-for-recruiting/)
 * [Use Twitch](https://amazinghiring.com/sourcing-tech-talent-on-twitch-how-to-find-software-developers-using-the-popular-streaming-platform/)
-* We will be adding the name of the sourcing platforms here soon ▶️
+* LinkedIn, Glassdoor, Indeed, Workday
+* Stack Overflow, Wonderful, GitHub, Dev.2, AngelHack, 
+* EdX, Coursera, Core Code 🚀
+* Facebook, TikTok, Reddit 
