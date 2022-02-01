@@ -5,14 +5,10 @@
 
 ## Topics 📚
 * Sourcing
-* Recruitment process benchmark
+* Recruitment process stages 
   - Your company's process
   - Other company's processes  
-* Interview practice
-  - Questions to ask
-  - Things to look out for 
- * Guidelines for presentations
- * QA Testing
+ * Guidelines for Final Proyect Presentation
 
 ## Week Slides 💻
 * [Sourcing and Process Design](https://docs.google.com/presentation/d/1bkhnm2AtcF5Ae92YXU4QX99DkXoQ4L2q9qdeRFaDx_Y/edit?usp=sharing)
