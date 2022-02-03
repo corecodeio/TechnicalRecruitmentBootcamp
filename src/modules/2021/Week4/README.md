@@ -31,3 +31,4 @@
 * EdX, Coursera, Core Code 🚀
 * Facebook, TikTok, Reddit 
 * [EpicJobs](https://epicjobs.co/)
+* Suggested naming for positions: Seniority + technology + activity + role + detalle (Sr. JavaScript Front End Developer, Jr. Selenium QA Tester, Flutter App Developer)
