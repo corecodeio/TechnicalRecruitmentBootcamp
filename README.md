@@ -4,7 +4,7 @@
 
 </a>
 
-<h1 align="center">Technical Recruitment Bootcamp - January 2022</h1>
+<h1 align="center">Technical Recruitment Bootcamp - March 2022</h1>
 
 ## Introduction
 <p>Welcome to the Technical Recruitment Bootcamp guide, here you will find the different modules, schedule, recordings and interesting links for this bootcamp, we wish you the best.</p>
